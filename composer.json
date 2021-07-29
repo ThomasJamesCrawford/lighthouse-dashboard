@@ -19,7 +19,6 @@
         "metrics"
     ],
     "require": {
-        "illuminate/support": "~8",
         "inertiajs/inertia-laravel": "^0.2.12",
         "nuwave/lighthouse": "dev-master||v5.0-alpha.4"
     },
